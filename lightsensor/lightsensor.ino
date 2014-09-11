@@ -1,5 +1,5 @@
-int sensor = 0;    
-int pinLed = 13;
+const int sensor = 0;    
+const int pinLed = 13;
 
 void setup(){
   pinMode(pinLed, OUTPUT);
